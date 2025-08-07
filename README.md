@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sluroq</h1>
+<h1 align="center">Hey! I'm sluroq</h1>
 <h3 align="center">I'm here to make everyone's life easier</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sluroq&label=Profile%20views&color=4911b3&style=plastic" alt="sluroq" /> </p>
