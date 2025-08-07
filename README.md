@@ -10,11 +10,11 @@
 <img src="https://komarev.com/ghpvc/?username=sluroq&label=Profile%20views&color=4911b3&style=plastic" alt="sluroq"/>
 </p>
 
-<h4>Programming languages i use:</h4>
+<h4>Programming languages I use:</h4>
 <div align="left">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="30"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="30"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" height="30"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="30" right-margin=5px/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="30" right-margin=5px/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" height="30" right-margin=5px/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="30"/>
 </div>
 
