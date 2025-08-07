@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm sluroq</h1>
 <h3 align="center">I'm here to make everyone's life easier</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sluroq&label=Profile%20views&color=4911b3&style=plastic" alt="sluroq" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sluroq&label=Profile%20views&color=4911b3&style=plastic" alt="sluroq" /> </p>
 
 <h3 align="left">I code with:</h3>
 <div style="display: flex; align-items: center;">
